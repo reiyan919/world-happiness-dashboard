@@ -19,7 +19,7 @@ Created 3 interactive dashboards:
 2. **GDP vs Happiness** – Correlation Analysis  
 3. **Happiness Trends** – Top 10 countries over time  
 
-➡️ **View Dashboard on Tableau Public:** [[Your Tableau Public Link Here](https://public.tableau.com/views/WorldHappinessReportDashboard_17629813663740/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+➡️ **View Dashboard on Tableau Public:** [(https://public.tableau.com/views/WorldHappinessReportDashboard_17629813663740/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 ---
 
